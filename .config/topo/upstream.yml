@@ -1,0 +1,4 @@
+- url: https://github.com/xdev-software/base-template.git
+  branch: master
+- url: https://github.com/xdev-software/java-setup-template.git
+  branch: master
